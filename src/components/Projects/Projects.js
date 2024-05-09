@@ -2,11 +2,8 @@ import React from "react"; // Import React library
 import { Container, Row, Col } from "react-bootstrap"; // Import Container, Row, and Col components from react-bootstrap
 import ProjectCard from "./ProjectCards"; // Import ProjectCard component from "./ProjectCards"
 import Particle from "../Particle"; // Import Particle component from "../Particle"
-import leaf from "../../Assets/Projects/leaf.png"; // Import image assets for projects
-import emotion from "../../Assets/Projects/emotion.png"; // Import image assets for projects
 import editor from "../../Assets/Projects/Quiz-app.png"; // Import image assets for projects
 import connectify from "../../Assets/Projects/connectify.png"; // Import image assets for projects
-import suicide from "../../Assets/Projects/suicide.png"; // Import image assets for projects
 import bitsOfCode from "../../Assets/Projects/SkySight.png"; // Import image assets for projects
 
 // Define the Projects functional component
