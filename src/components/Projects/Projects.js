@@ -33,7 +33,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="SkySight"
-              description="Real-time weather application using open weather API, Weatherdata dynamically fetched and interactively presented on the dashboard."
+              description="A sophisticated real-time weather application build using MERN Stack harnesses the power of the OpenWeather API to dynamically fetch current weather data, ensuring up-to-the-minute accuracy. This data is then seamlessly and interactively presented on the user-friendly dashboard, providing users with a comprehensive and engaging weather experience."
               ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
               demoLink="https://weather-app-chirag-sharma.netlify.app/"
             />
@@ -44,7 +44,7 @@ function Projects() {
               imgPath={connectify}
               isBlog={false}
               title="Connectify"
-              description="A MERN stack social media app facilitating user connections, featuring profiles, news feeds, messaging, and content sharing. Its modern design and responsive UI ensure an engaging experience across devices, fostering meaningful connections in the digital era."
+              description="An innovative MERN stack social media platform fosters user connections by offering a wide array of features, including profiles, news feeds, messaging, and seamless content sharing. Its contemporary design and responsive user interface guarantee an immersive experience across various devices, nurturing significant connections in today's digital landscape."
               ghLink="https://github.com/soumyajit4419/Chatify"
               demoLink="https://connectify-eta.vercel.app/"
             />
@@ -55,7 +55,7 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="A Quiz App"
-              description="A simple, responsive and interactive Computer Science Quiz web application."
+              description="Introducing a user-friendly and intuitive Computer Science Quiz web application, meticulously crafted to provide simplicity. Seamlessly blending responsiveness and interactivity, Dive into an array of thought-provoking questions, covering a spectrum of Computer Science topics, and embark on a journey of knowledge discovery."
               ghLink="https://github.com/soumyajit4419/Editor.io"
               demoLink="https://quiz-app-computer-science.netlify.app/"              
             />
