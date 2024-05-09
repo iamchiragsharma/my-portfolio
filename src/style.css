@@ -386,13 +386,13 @@ button:focus {
 
 .home-social-icons:hover::before {
   transform: scale(1.1);
-  box-shadow: 0 0 15px #801f95;
+  box-shadow: 0 0 15px rgb(84, 183, 244);
 }
 
 .home-social-icons:hover {
   color: #87209e;
-  box-shadow: 0 0 5px #87209e;
-  text-shadow: 0 0 2px #87209e;
+  box-shadow: 0 0 5px rgb(84, 183, 244);
+  text-shadow: 0 0 2px rgb(84, 183, 244);
 }
 
 .social-icons {
@@ -478,7 +478,7 @@ button:focus {
 .project-card-view:hover {
   transform: scale(1.02) !important;
   overflow: hidden !important;
-  box-shadow: 0px 3px 8px rgba(129, 72, 144, 0.561) !important;
+  box-shadow: 0px 3px 8px rgb(84, 183, 244) !important;
 }
 
 .blog-card {
@@ -582,7 +582,7 @@ button:focus {
 .tech-icons:hover {
   transform: scale(1.05) !important;
   overflow: hidden !important;
-  border: 2.2px solid rgba(197, 115, 230, 0.883) !important;
+  border: 2.2px solid rgb(84, 183, 244) !important;
 }
 .tech-icon-images {
   padding: 20px !important;
@@ -709,7 +709,7 @@ button:focus {
 }
 
 .like-btn:hover {
-  transform: translateY(-2px) !important;
+  transform: scale(1.1) !important;
   background-color: #a24dd386 !important;
   border-color: #a24dd386 !important;
 }
